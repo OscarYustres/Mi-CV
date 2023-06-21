@@ -1,0 +1,49 @@
+html {
+    box-sizing: border-box;
+    font-size: 62.5%; /** 1rem = 10px **/
+}
+*, *:before, *:after {
+    box-sizing: inherit;
+}
+
+h1, h2, h3{ 
+   
+    text-align: center;
+}
+
+p  {
+    font-size: 25px;
+    text-align: center;
+    display: block;
+    font-size: 1.8rem;
+    color: #0a0000;
+    text-decoration: none;
+}
+
+body {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 1.6rem;
+    line-height: 2;
+}
+
+
+.navegacion {
+    text-align: center;
+    display: block;
+    font-size: 1.8rem;
+    color: #0a0000;
+    text-decoration: none;
+}
+
+table{
+    width: 100%;
+    text-align: center;
+}
+
+ul {
+    text-align: center;
+    align-items: center;
+    text-decoration: none;
+    list-style: none;
+}
+
